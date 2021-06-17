@@ -94,7 +94,7 @@ class Matrices{
 		}
 		else
 		{
-			System.out.println("You cannot add this two matrices:");
+			System.out.println("You can't add these two matrices:");
 		}
 	}
 	
